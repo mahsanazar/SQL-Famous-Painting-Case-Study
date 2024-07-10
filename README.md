@@ -1,5 +1,6 @@
 
 # Famous Paintings & Museums Dataset SQL Use Case Study  
+
 ![Museum](download (1).jpeg)
 
 Welcome to my SQL use case study utilizing the Famous Paintings & Museums dataset from Kaggle. This project showcases various SQL queries executed using Microsoft SQL Server Management Studio.
